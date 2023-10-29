@@ -1,0 +1,23 @@
+/*****harmony*****/
+/* #harmony(headerhdmdp7lm3ya) #css starts  */
+    .headerhdmdp7lm3ya .btn-outline-primary{
+        background-color: #1AC782;
+        border: none;
+        color: white;
+        font-weight: bold
+    }
+    .headerhdmdp7lm3ya .btn-outline-primary:not(:disabled):not(.disabled):active{
+        background-color: #1AC782;
+        border: none;
+        color: white;
+        font-weight: bold
+    }
+    .headerhdmdp7lm3ya .navbar-light .navbar-nav .nav-link{
+        color: #33363D
+    }
+    .headerhdmdp7lm3ya .navbar-light .navbar-nav .nav-link:hover{
+        color: #1AC782
+    }
+
+/* #harmony(headerhdmdp7lm3ya) #css ends  */
+/*****harmony*****/
