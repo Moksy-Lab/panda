@@ -60,6 +60,10 @@
 .fayete8bna5e4lc .fdb-block {
     padding: 5.5rem 0
 }
+.fayete8bna5e4lc h2 {
+    font-size: 18px;
+    font-weight: 600
+}
 
 .fayete8bna5e4lc    .fdb-block .fdb-box {
     padding: 2.75rem 2.5rem
@@ -78,3 +82,60 @@
          }
 /* #faye(fayete8bna5e4lc) #css starts */
 /*****faye*****/
+
+/*****agdu*****/
+    /* #agdu(d390a380620aac0e) #css starts  */
+    .aboutd390a380620aac0e h4{
+        font-size: 32px
+    }
+    .aboutd390a380620aac0e p {
+        font-size: 20px
+    }
+    .aboutd390a380620aac0e .video_card::before {
+        background-color: #8080
+    }
+    .aboutd390a380620aac0e .fa {
+        color: #1AC782
+    }
+
+    .aboutd390a380620aac0e .video_card>.btn:hover,
+    .aboutd390a380620aac0e .video_card>.btn:active {
+        color: #1AC782
+    }
+    /* #agdu(d390a380620aac0e) #css ends  */
+/*****agdu*****/
+
+/*****tracey*****/
+/* #tracey(testimonialcohi0ajeo7e) #css starts */
+.testimonialcohi0ajeo7e{
+    padding: 7rem 0
+}
+.testimonialcohi0ajeo7e .lead {
+    font-size: 20px
+}
+/* #tracey(testimonialcohi0ajeo7e) #css starts */
+/*****tracey*****/
+
+/*****cark*****/ 
+    /* #cark(clientsca9o7rhywmy) #css starts  */
+    .clientsca9o7rhywmy h2 {
+        font-size: 32px
+    }
+    /* #cark(clientsca9o7rhywmy) #css ends  */
+/*****cark*****/ 
+
+/*****fanta*****/
+/* #fanta(f439c65adee997571) #css starts */
+.footerf439c65adee997571 {
+    overflow: hidden
+}
+.footerf439c65adee997571 img{
+    max-width: 100px
+}
+
+.footerf439c65adee997571 .copyright {
+    font-size: 18px
+}
+
+/* #fanta(f439c65adee997571) #css ends */
+/*****fanta*****/
